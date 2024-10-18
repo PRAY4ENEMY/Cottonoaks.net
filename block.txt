@@ -1,0 +1,4 @@
+
+    <pictures>
+     <img src="/home/thrash-libre/pictures/Hatsune.Miku.full.3256907.jpg" alt="Hatsune_Mike"> 
+    </pictures>
